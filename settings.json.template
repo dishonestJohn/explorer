@@ -16,7 +16,7 @@
   "symbol": "DID",
 
   // logo
-  "logo": "/images/logo.png",
+  "logo": "/images/did.png",
 
   // favicon
   "favicon": "public/favicon.ico",
@@ -33,10 +33,10 @@
 
   // database settings (MongoDB)
   "dbsettings": {
-    "user": "iquidus",
-    "password": "3xp!0reR",
+    "user": "dirtydeeds",
+    "password": "dirtydirty",
     "database": "explorerdb",
-    "address": "localhost",
+    "address": "127.0.0.1",
     "port": 27017
   },
 
@@ -81,9 +81,9 @@
 
   // ensure links on API page are valid
   "api": {
-    "blockindex": 140,
-    "blockhash": "00000008d4260bb73a923e3ae88068a42020a4f85b9169fa769000b1b7d9745a",
-    "txhash": "bbfadfee679c2734e9ea62a54ed56e17e3d6db0c967219fd6f257492f9c6da97",
+    "blockindex": 570,
+    "blockhash": "00000001b76eb63c29288331e5c7945125150689549ae11a3375f1c4dc3d453e",
+    "txhash": "de3a5557d9e78630c01427f1f7b87091245ddde030722ee7777a7c90d5b31051",
     "address": "DQYWSQgMRc6r4LGC4R3BtK65AE7AUGV7S5"
   },
 
